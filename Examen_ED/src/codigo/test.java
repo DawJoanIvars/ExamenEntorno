@@ -18,7 +18,7 @@ public class test {
 	@Test
 	public void test() {
 		
-		assertEquals(1,numero.menor());
+		assertEquals(2,numero.menor());
 	}
 
 }
