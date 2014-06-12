@@ -8,14 +8,16 @@ public class Menor {
 	private int a;
 	private int b;
 
-	//Constructor
+	 //Constructor
 	public Menor() {
 		a=0;
 		b=0;
+		
+
 	}
 	
 	public void setA(int a){
-		this.a=b;
+		this.a=a;
 	}
 
 	public void setB(int b){

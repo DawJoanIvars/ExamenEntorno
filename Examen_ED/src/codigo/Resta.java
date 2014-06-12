@@ -26,5 +26,7 @@ public class Resta {
 	//Método que permite restar dos números enteros
 	public int resta(){
 		return a-b;
+
 	}
+
 }
